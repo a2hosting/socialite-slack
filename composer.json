@@ -7,7 +7,7 @@
         "email": "m.pociot@gmail.com"
     }],
     "require": {
-        "php": "^8.1",
+        "php": "^8.0",
         "socialiteproviders/manager": "~4.0"
     },
     "autoload": {
